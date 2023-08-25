@@ -1,9 +1,7 @@
 # Amelie's Notes
 
-## This repository contains all of the notes taken by Amelie for the Lighthouse Labs Web Development Bootcamp.
+## This repository contains all of the notes taken by [Amelie](https://github.com/amgero) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
-[Amelie's GitHub profile] (https://github.com/amgero)
-[Lighthouse Labs] (https://www.lighthouselabs.ca/)
 
 ## Table of Contents
 * [Week 1](/Week_1)
