@@ -1,3 +1,6 @@
 # Amelie's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+
+## This repository contains all of the notes taken by Amelie for the Lighthouse Labs Web Development Bootcamp.
+
+[Amelie's GitHub profile] (https://github.com/amgero)
+[Lighthouse Labs] (https://www.lighthouselabs.ca/)
