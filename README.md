@@ -9,4 +9,4 @@
   
 ## Second Table
 * [Kaite](/Kaite)
-  *[Ugly](/Kaite/Ugly)
+  * [Ugly](/Kaite/Ugly)
