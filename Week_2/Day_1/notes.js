@@ -4,6 +4,31 @@ const book = {
   title: "Title of Book 1",
   authors: ["Author A", "Author B", "Author C"],
   numOfPages: 365,
-  isPublished: true
+  isPublished: true,
+  printHello: function(name){
+  console.log("Hello there", name);
+  }
 };
+
+// function nameOfTheFunction(optional parameters go here) {code here}
+
+/*
+function printHello(name) {
+  console.log("Hello there", name);
+};
+*/
+
+
+//console.log(book):
+console.log("Authors", book.authors);
+console.log("Authors", book['authors']);
+
+let title = 'title';
+console.log("Title", book[title]);
+console.log(book['authors'][2]); // this can help you find what you're looking for inside an array'
+console.log(book.authors[2]); // . dot method
+
+console.log(book.printHello("Amelie"));
+console.log(book.printHello("Kaite"));
+
 
